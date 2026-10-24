@@ -1,0 +1,36 @@
+{
+  "reference_date": "mai 2025",
+  "currency": "USD",
+  "source": "U.S. Bureau of Labor Statistics (BLS), Occupational Outlook Handbook — salaires annuels par métier, mai 2025 (estimations nationales États-Unis)",
+  "method": "Salaire conseillé et fourchette calculés à partir des percentiles 10e, 50e (médiane) et 90e du marché. Junior : entre le 10e percentile et la médiane. Confirmé : autour de la médiane. Senior : entre la médiane et le 90e percentile. Niveau déduit des années d'expérience (< 3 ans : junior ; 3 à 7 ans : confirmé ; > 7 ans : senior) sauf choix manuel du RH.",
+  "roles": [
+    {
+      "key": "software_developer",
+      "label": "Développeur logiciel",
+      "aliases": ["developpeur", "développeur", "developer", "software developer", "software engineer", "ingenieur logiciel", "ingénieur logiciel", "full stack", "fullstack", "full-stack", "backend", "frontend", "développeur web", "developpeur web"],
+      "p10": 82460, "median": 135980, "p90": 214670,
+      "url": "https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm"
+    },
+    {
+      "key": "data_scientist",
+      "label": "Data scientist",
+      "aliases": ["data scientist", "scientifique des donnees", "scientifique des données"],
+      "p10": 67240, "median": 120230, "p90": 199130,
+      "url": "https://www.bls.gov/ooh/math/data-scientists.htm"
+    },
+    {
+      "key": "accountant",
+      "label": "Comptable / auditeur",
+      "aliases": ["comptable", "accountant", "accounting", "auditeur", "auditor", "expert-comptable", "expert comptable"],
+      "p10": 56020, "median": 83680, "p90": 144090,
+      "url": "https://www.bls.gov/ooh/business-and-financial/accountants-and-auditors.htm"
+    },
+    {
+      "key": "hr_specialist",
+      "label": "Spécialiste RH",
+      "aliases": ["ressources humaines", "human resources", "hr specialist", "recruteur", "recruiter", "charge de recrutement", "chargé de recrutement", "charge rh", "chargée rh", "drh", "rh"],
+      "p10": 47180, "median": 75940, "p90": 128720,
+      "url": "https://www.bls.gov/ooh/business-and-financial/human-resources-specialists.htm"
+    }
+  ]
+}

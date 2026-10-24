@@ -1,0 +1,10 @@
+{
+  "description": "Empowering HR professionals with advanced analytics, this platform analyzes workforce data, identifies profiles, and suggests career paths using machine learning.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

@@ -1,0 +1,13 @@
+Django==5.0.*
+scikit-learn==1.6.1
+numpy>=2.0
+pandas
+joblib
+PyMySQL>=1.1
+cryptography
+matplotlib
+seaborn
+pypdf
+catboost>=1.2.5
+reportlab>=4.0
+xgboost>=3.4.1
